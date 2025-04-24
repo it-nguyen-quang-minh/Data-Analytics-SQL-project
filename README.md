@@ -29,6 +29,9 @@ The "Cleaning Data in SQL Queries" project focuses on cleaning and standardizing
 
 - Remove columns that are no longer needed after the data cleaning process.
 
+7. Perform Exploratory Data Analysis (EDA) and advanced queries (e.g., using window functions, CTEs, JOINs).
+
+
 ## Conclusion
 
 The "Cleaning Data in SQL Queries" project demonstrates how to enhance the quality and usability of a dataset through various SQL data cleaning techniques. By standardizing date formats, populating missing values, breaking out addresses into individual components, updating categorical values, removing duplicates, and dropping unused columns, the project ensures that the Nashville housing dataset is well-prepared for further analysis and reporting. This process is essential for maintaining data integrity and accuracy in any data-driven project.
